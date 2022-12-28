@@ -10,6 +10,7 @@
 - Create an audit log
 - Test out payment API
 - Role management: ADMIN, APPROVER & USER
+- RestSQL for mongodb
 
 ### Infrastructure
 - Deploy webservice to digitalocean
