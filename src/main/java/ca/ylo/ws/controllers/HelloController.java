@@ -27,7 +27,7 @@ public class HelloController {
         }
     )
     @GetMapping(
-            value = "/hello",
+            value = "/test",
             produces = MediaType.TEXT_PLAIN_VALUE
     )
     public ResponseEntity hello() {
